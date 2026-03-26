@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kevin Dagner
+ORG:Black Diamond Plumbing and Mechanical
+TITLE:Inventory and Payables Manager
+TEL;TYPE=CELL:815-997-7370
+TEL;TYPE=WORK,VOICE,PREF:815-269-5024
+TEL;TYPE=WORK,VOICE:815-444-0979
+EMAIL;TYPE=WORK:kdagner@blackdiamondtoday.com
+ADR;TYPE=WORK:;;1400 Miller Parkway;McHenry;IL;60050;USA
+URL:https://blackdiamondtoday.com
+END:VCARD
